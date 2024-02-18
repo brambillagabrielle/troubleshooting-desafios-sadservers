@@ -4,6 +4,7 @@ As documentações construídas tem como objetivos principais:
 1. **Consolidar o conhecimento** adquirido em cada atividade
 2. **Registrar novos conceitos** e comandos aprendidos
 3. **Melhorar a capacidade de escrita e comunicação** para instrução de processos técnicos
+3. **Aumentar a confiança** no uso do Linux através do terminal
 
 ## Conteúdo
 Cada documenção apresenta a mesma estrutura de tópicos básicos:
@@ -13,7 +14,7 @@ Cada documenção apresenta a mesma estrutura de tópicos básicos:
 
 ## Progresso
 ### Easy 
-1. ["Saint John": what is writing to this log file?](/Easy/1-saint-john.md) :x:
+1. ["Saint John": what is writing to this log file?](/Easy/1-saint-john.md) 	:heavy_check_mark:
 2. "Saskatoon": counting IPs. :x:
 3. "Santiago": Find the secret combination :x:
 4. "The Command Line Murders" :x:
