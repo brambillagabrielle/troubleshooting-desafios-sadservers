@@ -16,7 +16,7 @@ A primeira verificação realizada foi a execução do comando `top` para **veri
 
 Com a saída desse comando, pudemos identificar o processo `badlog.py` com o **ID de processo (PID)** igual a 593. No entanto, não temos a informação do caminho do script para poder verificar o seu conteúdo, ou até excluir o arquivo do programa se não houver mais necessidade de mantê-lo.<br>
 Para obter mais informações sobre os processos executando no sistema, pode ser executado o comando `ps aux`, filtrando com `grep` pelo nome do processo `badlog.py`. Dessa forma, pode ser encontrado o path completo do script: `/home/admin/badlog.py`.<br>
-> [!INFO]
+> [!NOTE]
 > As opções `aux` para o ps são usadas para **"exibir todos os processos do sistema, independente de terminal"**[^2]. Podem ser escritas com ou sem o hífen `-`, que é usado antes das opções na sintaxe dos comandos.
 
 Como possuímos o PID, podemos realizar um comando `kill` para **matar/encerrar a execução do processo**[^3]:
@@ -32,6 +32,6 @@ Por fim, a solução foi verificada e o desafio foi dado como concluído com suc
 <img src="screenshots/tela-desafio-final.png">
 
 ## Referências
-[^1]: [Comando top no Linux (lista processos) [Guia Básico] - Certificação Linux](https://www.certificacaolinux.com.br/comando-linux-top/)<br>
-[^2]: [ps - Guia Linux](https://guialinux.uniriotec.br/ps/)<br>
+[^1]: [Comando top no Linux (lista processos) [Guia Básico] - Certificação Linux](https://www.certificacaolinux.com.br/comando-linux-top/)
+[^2]: [ps - Guia Linux](https://guialinux.uniriotec.br/ps/)
 [^3]: [Comando Kill: Como Matar Processos no Linux](https://www.hostinger.com.br/tutoriais/comando-kill-linux)
