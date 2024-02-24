@@ -15,7 +15,7 @@ Cada documenção apresenta a mesma estrutura de tópicos básicos:
 ## Progresso
 ### Easy 
 1. ["Saint John": what is writing to this log file?](/easy/1-saint-john.md) :heavy_check_mark:
-2. "Saskatoon": counting IPs. :x:
+2. ["Saskatoon": counting IPs.](/easy/2-saskatoon.md) :heavy_check_mark:
 3. "Santiago": Find the secret combination :x:
 4. "The Command Line Murders" :x:
 5. "Taipei": Come a-knocking :x:
