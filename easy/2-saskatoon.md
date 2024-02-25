@@ -72,9 +72,9 @@ Por fim, a solução foi verificada e o desafio foi dado como concluído com suc
 <img src="screenshots/2-saskatoon/tela-desafio-final.png">
 
 ## Melhorias e aprendizados
-[ ] - Revisar comandos de manipulação de saídas de texto como `cut`
-[ ] - Aprender como utilizar o comando `awk`
-[ ] - Aplicar esses conceitos na criação de um script
+- [ ] Revisar comandos de manipulação de saídas de texto como `cut`
+- [ ] Aprender como utilizar o comando `awk`
+- [ ] Aplicar esses conceitos na criação de um script
 
 ## Referências
 [^1]: [The head and tail commands in Linux](https://www.baeldung.com/linux/head-tail-commands)
