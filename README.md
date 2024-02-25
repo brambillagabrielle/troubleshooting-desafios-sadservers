@@ -10,7 +10,7 @@ As documentações construídas tem como objetivos principais:
 Cada documenção apresenta a mesma estrutura de tópicos básicos:
 - **Desafio**: em que é apresentado as informações sobre o cenário do desafio
 - **Solução**: passos que foram realizados para chegar á solução aprovada do desafio
-- **Melhorias e aprendizados**: exposição de conhecimentos não-familiares ou até então desconhecidos que poderiam ser empregados para a melhoria da solução
+- **Melhorias e aprendizados**: pontuar o que poderia ser aprendido e melhorado com a experiência do desafio
 
 ## Progresso
 ### Easy 
